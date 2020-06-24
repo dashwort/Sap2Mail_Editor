@@ -1,7 +1,7 @@
 # Sap2Mail_Editor
 Repository used for distribution of public NuGet Packages
 
-## Purpose: 
+### Purpose
 This tool aims the simplify the creation of HTML based templates for the Sap2Mail application and lower the barrier to entry for users. The tool is based on C# and uses the MSHTML engine to automatically generate the template html.  
 
 ### Why have an installer?
